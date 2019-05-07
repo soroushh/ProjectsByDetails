@@ -4,7 +4,7 @@
 | Rock_Paper_Scissors Game| <p style="text-align: justify">This is a web application for playing Rock_Paper_Scissors with the computer. You enter your name and movement and compete with the computer selecting a random movement.</p> |Sinatra <br /> Ruby <br/>test frameworks: <br /> RSpec,Capybara |
 | Takeaway Modelling      |<p style="text-align: justify"> In this project, a takeaway modelling has been conducted. The program is able to send a message to  customers, ask for their orders, check the order and send the confirmation to the customer if the order is correct.</p>  | Ruby <br /> test framework: <br />RSpec |
 | chitter project         | <p style="text-align: justify">In this project, an easy web application has been written that you make some posts and the posts will be saved to the database and they will be shown in descending order on the screen.</p>  | Ruby <br /> Sinatra <br />Postgresql <br /> test frameworks: <br /> RSpec, Capybara<br /> |
-| Bowling game         |  | |
-| news summery challenge         |  | |
-| Acebook          |  | |
-| Makers Bnb         |  |last |
+| Bowling game         | <p style="text-align: justify">This project is a web application in which you can enter your bowling pins in each round and your score at the end of the tenth round will be shown.</p>  |Javascript <br /> Jquery <br /> test framework: <br /> Jasmine |
+| news summery challenge         |<p style="text-align: justify"> This project is a single web application (SPA). In this project, we will use two APIs to get the news headlines and each news summery. </p>   | Javascript|
+| Acebook          |<p style="text-align: justify"> In this project, it has been tried to make a duplication of Facebook. It was a two week project that we did it in a team including four persons.</p>  | Ruby <br /> Ruby on Rails <br /> test frameworks: <br /> Rspec </br> Capybara </br>CI: </br> Travis </br> Deployment: </br> Heroku|
+| Makers Bnb         | <p style="text-align: justify">In this project, a bed and breakfast application has been created as a one week team project including four people.</p>  |Ruby </br> Sinatra </br> test frameworks: </br> RSpec </br> Capybara </br> ORM: </br> ActiveRecord |
